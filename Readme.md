@@ -52,3 +52,6 @@ CALCULATE([Total Sales], SAMEPERIODLASTYEAR(DateTable[Date]))
 
 Sales YoY % = 
 DIVIDE([Total Sales] - [Sales YoY], [Sales YoY])
+
+## Dashboard Images
+images/Exective_summary.png
